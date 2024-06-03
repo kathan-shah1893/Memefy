@@ -52,9 +52,6 @@ Memefy is a web application that allows users to create memes by adding text to 
 **Contributing:**
 Contributions are welcome! Please open an issue or submit a pull request with any improvements or features you would like to add.
 
-**License:**
-This project is licensed under the [MIT License](LICENSE).
-
 **Author:**
 [Kathan Shah] ([kathan Shah](https://github.com/kathan-shah1893))
 
