@@ -56,6 +56,6 @@ Contributions are welcome! Please open an issue or submit a pull request with an
 This project is licensed under the [MIT License](LICENSE).
 
 **Author:**
-[Kathan Shah] ([Your GitHub Profile](https://github.com/kathan-shah1893))
+[Kathan Shah] ([kathan Shah](https://github.com/kathan-shah1893))
 
 Feel free to customize the README.md file with additional information or sections as needed. Enjoy Memefying!
