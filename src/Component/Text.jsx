@@ -9,7 +9,7 @@ export default function Text() {
             editmod ? 
             <input onDoubleClick={()=>{seteditmod(false)}} value={val} onChange={(e)=>{setVal(e.target.value)}}/> 
             : 
-            <h4 onDoubleClick={()=>{seteditmod(true)} }>{val}</h4>
+            <h5 onDoubleClick={()=>{seteditmod(true)} }>{val}</h5>
         }
     </Draggable>
   )
