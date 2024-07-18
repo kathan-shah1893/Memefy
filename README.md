@@ -1,4 +1,4 @@
-**Project Name:** Memefy
+**Memefy**
 
 **Description:**
 Memefy is a web application that allows users to create memes by adding text to images. With Memefy, users can upload their images or choose from a selection of predefined templates. They can then add custom text to the images, adjust the text style, size, and position, and download the created memes.
